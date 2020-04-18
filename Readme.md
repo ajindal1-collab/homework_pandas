@@ -32,7 +32,7 @@
     
 ## Plot Sharpe Ratios
 
-Investment managers and their institutional investors look at the return-to-risk ratio, not just the returns. (After all, if you have two portfolios that each offer a 10% return, yet one is lower risk, you would invest in the lower-risk portfolio, right?)
+    Investment managers and their institutional investors look at the return-to-risk ratio, not just the returns. (After all, if you have two portfolios that each offer a 10% return, yet one is lower risk, you would invest in the lower-risk portfolio, right?)
 
 
     1) Determine whether the algorithmic strategies outperform both the market (S&P 500) and the whales portfolios.
