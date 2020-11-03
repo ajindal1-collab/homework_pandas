@@ -1,4 +1,4 @@
-# Homework 3 Pandas
+# Pandas
 ---
 
 ## Performance Analysis
